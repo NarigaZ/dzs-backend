@@ -1,2 +1,1 @@
-web: npm install,
-node contatosBackend.js
+web: npm install

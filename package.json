@@ -6,6 +6,10 @@
   "dependencies": {
     "express": "^3.21.2"
   },
+  "scripts": {
+"start": "node contatosBackend.js",
+"test": "echo \"Error: no test specified\" && exit 1"
+},
   "devDependencies": {},
   "scripts": {
     "test": "node contatosBackend.js"

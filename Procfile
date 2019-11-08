@@ -1,1 +1,1 @@
-web: npm audit fix
+web: npm install
